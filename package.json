@@ -2,7 +2,7 @@
   "name": "csci39548-assingment-3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ejs",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js"
   },
